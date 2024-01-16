@@ -9,3 +9,10 @@ li {
     font-size: large;
     background-color: yellow;
 }
+
+body {
+    background-image: url(./images/odin-pokemon.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
