@@ -1,0 +1,11 @@
+/* style.css */
+li {
+    font-family: 'Trebuchet MS', Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.msgtosum1 {
+    color: red;
+    font-size: large;
+    background-color: yellow;
+}
